@@ -1,2 +1,2 @@
 # NL2PipeSkeleton
-Natural language to pipeline skeleton layout in CAD platform
+Natural language to pipe skeleton routing in CAD (CATIA) platform
